@@ -1,0 +1,32 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+div{
+    position: relative;
+    height: 80vh;
+    width: 30vw;
+    text-align: center;
+}
+div h1{
+    font-size: 100%;
+}
+#admin{
+    background-color: aliceblue;
+}
+#worker{
+    background-color: salmon;
+}
+
+button{
+    position: absolute;
+    width: 15%;
+    height: 8%;
+    top: 80%;
+    right: 10%;
+}

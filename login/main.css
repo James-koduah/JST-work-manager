@@ -1,0 +1,22 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+#card{
+    position: relative;
+    width: 40vw;
+    height: 70vh;
+    background-color: white;
+}
+#login{
+    position: absolute;
+    width: 15%;
+    height: 8%;
+    top: 80%;
+    right: 10%;
+}
